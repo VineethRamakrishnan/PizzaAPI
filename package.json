@@ -1,0 +1,19 @@
+{
+  "name": "pizza_api_call",
+  "version": "1.0.0",
+  "description": "Exploring the Pizza API",
+  "main": "pizzaAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node pizzaAPI.js"
+  },
+  "author": "Vineeth",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0",
+    "ssl-root-cas": "^1.2.3",
+    "winston": "^2.3.0"
+  }
+}
